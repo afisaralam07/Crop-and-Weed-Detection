@@ -187,5 +187,3 @@ Project Status
  Tested
  Ready for internship submission
 
-
-## 🗂️ Project Structure

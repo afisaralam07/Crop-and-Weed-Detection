@@ -57,3 +57,25 @@ crop-weed-detection/
 ├── data.yaml
 ├── README.md
 └── requirements.txt
+Key Learnings
+YOLO annotation format and dataset handling
+Object detection workflow using YOLOv8
+Model training, evaluation, and early stopping
+Debugging real-world ML pipeline issues
+Performing inference and visualizing results
+
+Applications
+Precision agriculture
+Automated weed removal systems
+Smart farming solutions
+Agricultural robotics
+
+ Author
+Afisar Alam
+Machine Learning Intern
+
+ Project Status
+ Completed
+ Tested
+ Ready for internship submission
+

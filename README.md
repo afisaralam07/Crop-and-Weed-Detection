@@ -185,5 +185,5 @@ Project Status
 
  Completed
  Tested
- Ready for internship submission
+ 
 

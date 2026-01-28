@@ -39,3 +39,21 @@ This project addresses the problem using **computer vision and deep learning**, 
 ---
 
 ##  Project Structure
+
+crop-weed-detection/
+│
+├── data/
+│ ├── images/
+│ │ ├── train/
+│ │ └── val/
+│ ├── labels/
+│ │ ├── train/
+│ │ └── val/
+│
+├── notebooks/
+│ ├── dataset_check.ipynb
+│ └── bbox_visualization.ipynb
+│
+├── data.yaml
+├── README.md
+└── requirements.txt
